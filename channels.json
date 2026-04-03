@@ -16,7 +16,7 @@
     "category": "Live",
     "thumbnail": "cnx`-kids"
   }
-]
+
   {
     "id": "cnx_max",
     "name": "CNX MAX",
@@ -33,4 +33,4 @@
     "category": "Live",
     "thumbnail": "cnx_extra"
   },
- 
+ ]
