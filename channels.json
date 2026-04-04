@@ -1,11 +1,11 @@
 [
   {
-    "id": "cnx_french",
-    "name": "CNX French",
+    "id": "cnx_sports",
+    "name": "CNX SPORTS",
     "stream_url": "https://stream.castynx.com/hls/channel1.m3u8",
     "isLive": true,
     "category": "Live",
-    "thumbnail": "cnx_french"
+    "thumbnail": "cnx_sports"
   },
   {
     "id": "cnx_kids",
