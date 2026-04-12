@@ -24,12 +24,12 @@
     "thumbnail": "cnx_max"
   },
   {
-    "id": "cnx_extra",
-    "name": "CNX EXTRA",
+    "id": "cnx_vintage",
+    "name": "CNX VINTAGE",
     "stream_url": "https://stream.castynx.com/hls/channel4.m3u8",
     "isLive": true,
     "category": "Live",
-    "thumbnail": "cnx_extra"
+    "thumbnail": "cnx_vintage"
   },
  
   {
