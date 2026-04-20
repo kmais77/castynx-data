@@ -1,12 +1,13 @@
 [
   {
-    "id": "cnx_sports",
-    "name": "CNX SPORTS",
-    "stream_url": "https://stream.castynx.com/hls/channel1.m3u8",
+    "id": "cnx_vintage",
+    "name": "CNX VINTAGE",
+    "stream_url": "https://stream.castynx.com/hls/channel4.m3u8",
     "isLive": true,
     "category": "Live",
-    "thumbnail": "cnx_sports"
+    "thumbnail": "cnx_vintage"
   },
+ 
   {
     "id": "cnx_kids",
     "name": "CNX Kids",
@@ -24,12 +25,12 @@
     "thumbnail": "cnx_max"
   },
   {
-    "id": "cnx_vintage",
-    "name": "CNX VINTAGE",
-    "stream_url": "https://stream.castynx.com/hls/channel4.m3u8",
+    "id": "cnx_sports",
+    "name": "CNX SPORTS",
+    "stream_url": "https://stream.castynx.com/hls/channel1.m3u8",
     "isLive": true,
     "category": "Live",
-    "thumbnail": "cnx_vintage"
+    "thumbnail": "cnx_sports"
   },
  
   {
